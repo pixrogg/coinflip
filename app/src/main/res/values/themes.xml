@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.CoinFlip" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#07100C</item>
+        <item name="android:navigationBarColor">#07100C</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#07100C</item>
+    </style>
+</resources>
